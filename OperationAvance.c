@@ -11,6 +11,6 @@ int Puissance (int a, int b){
         i++;
     }
     return puiss;
-    //blabla
+    
 }
 
